@@ -4,6 +4,11 @@
 
 **kelwinrodrigues/kelwinrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550" height="330"/>
+</div>
+
+
 Algumas tecnologias que são desenvolvidas aqui:
 
 - 🔭 I’m currently working on ...
