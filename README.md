@@ -17,10 +17,10 @@
 </div>
 <br>
 <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelwinrodrigues&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelwinrodrigues&theme=dark&background=000000)](https://git.io/streak-stats)
  </div>
  <div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwinrodrigues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwinrodrigues&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 
