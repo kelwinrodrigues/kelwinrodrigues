@@ -6,7 +6,14 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550" height="330"/>
+  <br>
+  <img src="https://img.shields.io/badge/c%C3%B3digo-javascript-orange"/>
+  <br>
+  
 </div>
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelwinrodrigues&theme=dark&background=000000)](https://git.io/streak-stats)
+  </div>
 
 
 Algumas tecnologias que são desenvolvidas aqui:
