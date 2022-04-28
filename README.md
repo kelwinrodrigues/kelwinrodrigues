@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/C%C3%B3digo-javaScript-orange"/>
   <br> 
 </div>
+<br>
 <div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelwinrodrigues&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  </div>
