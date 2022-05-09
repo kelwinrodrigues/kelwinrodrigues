@@ -4,34 +4,24 @@
 
 **kelwinrodrigues/kelwinrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550" height="330"/>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <br> 
-  <div>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  </div>
+<div align="center">
+  <a href="https://github.com/kelwinrodrigues">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kelwinrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelwinrodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelwinrodrigues&theme=dark&background=000000)](https://git.io/streak-stats)
- </div>
- <div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwinrodrigues&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-
-
-Algumas tecnologias que são desenvolvidas aqui:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="leoisaias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="kelwinrodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="kelwinrodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/kelwinszx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "senakelwin5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ 
+  ![Snake animation](https://github.com/leoisaiass/leoisaiass/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
